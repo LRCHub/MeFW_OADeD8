@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スーパーノヴァ（feat. 音街ウナ）",
+  "base_artist": "r-906",
+  "createdAt": "2026-02-13T13:46:15.243784Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スーパーノヴァ (feat. 音街ウナ)",
+      "artist": "r-906",
+      "has_synced": false,
+      "path": "select/pl_01_スーパーノヴァ_(feat._音街ウナ)_r-906.txt"
+    }
+  ]
+}
